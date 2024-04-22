@@ -1,3 +1,4 @@
 - 👋 Hi, I’m @Chandrakumar
 - 👀 I’m interested in Web development
-- 🌱 I’m currently learning React JS
+- 🤹‍♀️ Skills : HTML, CSS, JS, React JS
+- 🌱 I’m currently learning Next.js
