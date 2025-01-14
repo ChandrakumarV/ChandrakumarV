@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @Chandrakumar
 - 👀 I’m interested in Web development
-- 🤹‍♀️ Skills : Next JS, Vue JS
+- 🤹‍♀️ Skills : Next JS, Vue JS, Express JS, MYSQL
