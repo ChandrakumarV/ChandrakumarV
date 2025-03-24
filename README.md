@@ -1,3 +1,4 @@
-- 👋 Hi, I’m @Chandrakumar
-- 👀 I’m interested in Web development
-- 🤹‍♀️ Skills : Next JS, Vue JS, Express JS, MYSQL
+👋 Hey, I'm Chandrakumar!
+💻 Frontend & UX Developer | React | TypeScript
+🚀 Building SaaS apps, exploring backend & testing.
+📷 Passionate about photography & tech.
